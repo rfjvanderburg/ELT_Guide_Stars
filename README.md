@@ -11,3 +11,13 @@ different levels of Galactic extinction.
 Workbook 2 uses the Gaia simulated Universe to explore the fraction
 of problematic binary stars for ELT operations (as defined by their
 angular separation and flux ratio).
+
+CNN_binary_classification.ipynb trains a CNN to classify sources into single
+stars and extended objects based on HST imaging data. This trained
+model will be central to the next stage, where we aim to obtain a
+similar classification based on entirely different data (Gaia only). 
+
+
+
+
+
